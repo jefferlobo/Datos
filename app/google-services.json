@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556642812770",
+    "project_id": "datos-cd706",
+    "storage_bucket": "datos-cd706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556642812770:android:24e920cb0c85ae723c623b",
+        "android_client_info": {
+          "package_name": "com.cartagena.datos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556642812770-v70cfa34oc801uuan1onadh7n5kbpt12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cartagena.datos",
+            "certificate_hash": "6e843625fc61a714970cfb7cf61ba7262b9e4677"
+          }
+        },
+        {
+          "client_id": "556642812770-bfici25npa0f61vmtd3b0o86tdjqqkjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73tX8BV708SCjOwowxDf5qgQgpwPE-3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556642812770-bfici25npa0f61vmtd3b0o86tdjqqkjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
